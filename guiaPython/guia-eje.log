@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2020.6.18)  23 JUN 2020 12:15
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2020.6.18)  23 JUN 2020 16:27
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -692,35 +692,35 @@ ge spanish on input line 8.
 
 )
 Package polyglossia Info: Default language is spanish.
-Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+Package hyperref Info: Option `colorlinks' set `true' on input line 38.
 \c@pythonnumber=\count152
  (./guia-eje.aux)
 \openout1 = `guia-eje.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 42.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 43.
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -728,63 +728,63 @@ LaTeX Font Info:    ... okay on input line 42.
 .................................................
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 42.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 42.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 42.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 42.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 42.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 42.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 42.
-LaTeX Font Info:    Redeclaring math accent \check on input line 42.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 42.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 42.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 42.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 42.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 42.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 43.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 43.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 43.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 43.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 43.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 43.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 43.
+LaTeX Font Info:    Redeclaring math accent \check on input line 43.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 43.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 43.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 43.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 43.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 43.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 42.
+(Font)              `operators' in the math version `normal' on input line 43.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 42.
+(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 43.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 42.
+(Font)              `operators' in the math version `bold' on input line 43.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 42.
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 43.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 42.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 42.
+(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 42.
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 42.
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 42.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 43.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 42.
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 42.
+(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 42.
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 43.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 42.
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 43.
 \c@lstlisting=\count153
 runsystem(pygmentize -S default -f latex > guia-eje.pyg)...executed.
 
  (./guia-eje.pyg)
 \AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring ON on input line 42.
+Package hyperref Info: Link coloring ON on input line 43.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -794,31 +794,31 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count154
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 
 (./guia-eje.out) (./guia-eje.out)
 \@outlinefile=\write5
 \openout5 = `guia-eje.out'.
 
-LaTeX Info: Redefining \celsius on input line 42.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 42.
+LaTeX Info: Redefining \celsius on input line 43.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 43.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 42.
-Package gensymb Info: Using \Omega for \ohm on input line 42.
+LaTeX Info: Redefining \ohm on input line 43.
+Package gensymb Info: Using \Omega for \ohm on input line 43.
 
 Package gensymb Warning: Not defining \micro.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 45.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 45.
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -827,7 +827,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
-Overfull \hbox (6.90004pt too wide) in paragraph at lines 48--49
+Overfull \hbox (6.90004pt too wide) in paragraph at lines 49--50
 \EU1/lmr/m/n/10 resueltos para facilitar el aprendizaje de los alumnos de la as
 ignatura de algoritmos
  []
@@ -1055,7 +1055,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-[2]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [2]
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
 t.pyg python/entradaSalida/suma_input.py)...executed.
@@ -1168,7 +1169,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-[3]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [3]
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
 t.pyg python/entradaSalida/saludo_nombre.py)...executed.
@@ -1326,7 +1328,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
-[4]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [4]
 Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
@@ -1396,7 +1399,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
-[5]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [5]
 Underfull \hbox (badness 10000) in paragraph at lines 112--113
 
  []
@@ -1526,7 +1530,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
-[6]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [6]
 Overfull \hbox (0.77002pt too wide) in paragraph at lines 136--137
 []\EU1/lmr/m/n/10 Luego usamos \EU1/lmr/bx/n/10 input \EU1/lmr/m/n/10 para capt
 urar el valor del radio desde el teclado
@@ -1712,7 +1717,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--156
 
  []
 
-[7]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [7]
 Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
@@ -1802,7 +1808,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
-[8]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [8]
 Overfull \hbox (9.73pt too wide) in paragraph at lines 176--177
 []\EU1/lmr/m/n/10 Si probamos nuestro código con \EU1/lmr/bx/n/10 a=1\EU1/lmr/m
 /n/10 , \EU1/lmr/bx/n/10 b=2 \EU1/lmr/m/n/10 y \EU1/lmr/bx/n/10 ángulo=30\EU1/l
@@ -1868,14 +1875,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
-) (./secciones/tortuga.tex [9]
+) (./secciones/tortuga.tex
+File: ./images/cc-lic.png Graphic file (type QTm)
+ <use  "./images/cc-lic.png" > [9]
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/tortugaBasica.py)...executed.
+t.pyg python/tortuga/tortugaBasica.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -1940,7 +1949,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/cuadrado-turtle.py)...executed.
+t.pyg python/tortuga/cuadrado-turtle.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -2065,7 +2074,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-[10]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [10]
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
@@ -2095,7 +2105,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/triangulo-turtle.py)...executed.
+t.pyg python/tortuga/triangulo-turtle.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -2208,7 +2218,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-[11]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [11]
 File: ./images/triangulo.png Graphic file (type QTm)
  <use  "./images/triangulo.png" >
 Overfull \hbox (8.42pt too wide) in paragraph at lines 55--56
@@ -2223,7 +2234,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/inception-cuadrado-turtle.py)...executed.
+t.pyg python/tortuga/inception-cuadrado-turtle.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -2456,13 +2467,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-[12]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [12]
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
 File: ./images/cuadrado-inception.png Graphic file (type QTm)
-<use  "./images/cuadrado-inception.png" > [13]
+<use  "./images/cuadrado-inception.png" >
+File: ./images/cc-lic.png Graphic file (type QTm)
+ <use  "./images/cc-lic.png" >
+[13]
 Overfull \hbox (5.65001pt too wide) in paragraph at lines 68--69
 \EU1/lmr/m/n/10 través de la aplicación \EU1/lmr/bx/n/10 turtle \EU1/lmr/m/n/10
  en donde exista la siguiente distribución
@@ -2486,7 +2501,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/pastel-1.py)...executed.
+t.pyg python/tortuga/pastel-1.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -2599,20 +2614,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-[14]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [14]
 Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 File: ./images/circulo-1.png Graphic file (type QTm)
-<use  "./images/circulo-1.png" > [15]
+<use  "./images/circulo-1.png" >
+File: ./images/cc-lic.png Graphic file (type QTm)
+ <use  "./images/cc-lic.png" > [15]
 Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/pastel-2.py)...executed.
+t.pyg python/tortuga/pastel-2.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -2785,17 +2803,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
-Missing character: There is no á in font cmmi10!
-Missing character: There is no ó in font cmmi7!
 
 Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-[16]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [16]
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/pastel-3.py)...executed.
+t.pyg python/tortuga/pastel-3.py)...executed.
 
  (./guia-eje.out.pyg
 *************************************************
@@ -3042,7 +3059,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/pastel-31.py)...executed.
+t.pyg python/tortuga/pastel-31.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -3335,11 +3352,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
-[17]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [17]
 Overfull \vbox (27.43999pt too high) has occurred while \output is active []
 
+File: ./images/cc-lic.png Graphic file (type QTm)
 
-[18]
+<use  "./images/cc-lic.png" > [18]
 Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
@@ -3357,7 +3376,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/edad.py)...executed.
+t.pyg python/sentenciasControl/edad.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -3392,25 +3411,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [19]
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Overfull \hbox (4.02002pt too wide) in paragraph at lines 14--15
+Overfull \hbox (4.02002pt too wide) in paragraph at lines 16--17
 \EU1/lmr/m/n/10 sentencia \EU1/lmr/bx/n/10 ELSE\EU1/lmr/m/n/10 . Esta sentencia
  se ejecutará solo cuando la condición
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/edad-else.py)...executed.
+t.pyg python/sentenciasControl/edad-else.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -3453,113 +3473,54 @@ t.pyg python/edad-else.py)...executed.
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
-runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
- "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/edad-personas.py)...executed.
-
-(./guia-eje.out.pyg
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-)
-runsystem(rm guia-eje.out.pyg)...executed.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
-
- []
-
-[20]
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
-
- []
-
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/esPar.py)...executed.
+t.pyg python/sentenciasControl/edad-personas.py)...executed.
 
 (./guia-eje.out.pyg
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
 *************************************************
 * fontspec warning: "addfontfeatures-ignored"
 * 
@@ -3600,24 +3561,76 @@ t.pyg python/esPar.py)...executed.
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [20]
+runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
+ "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
+t.pyg python/sentenciasControl/edad-persona-elif.py)...executed.
 
-Overfull \hbox (0.77003pt too wide) in paragraph at lines 43--44
-\EU1/lmr/bx/n/10 número 8 es par\EU1/lmr/m/n/10 ; si ahora probamos con el núme
-ro \EU1/lmr/bx/n/10 15\EU1/lmr/m/n/10 , el programa
- []
+ (./guia-eje.out.pyg
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+)
+runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Overfull \hbox (1.31001pt too wide) in paragraph at lines 45--46
-\EU1/lmr/m/n/10 opciones, presentadas en un menú, dibuje: un cuadrado, un trián
-gulo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
@@ -3626,192 +3639,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
-[21]
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [21]
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/tortuga-menu.py)...executed.
+t.pyg python/sentenciasControl/esPar.py)...executed.
 
  (./guia-eje.out.pyg
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
 *************************************************
 * fontspec warning: "addfontfeatures-ignored"
 * 
@@ -3852,265 +3691,35 @@ t.pyg python/tortuga-menu.py)...executed.
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
-
+Overfull \hbox (0.77003pt too wide) in paragraph at lines 63--64
+\EU1/lmr/bx/n/10 número 8 es par\EU1/lmr/m/n/10 ; si ahora probamos con el núme
+ro \EU1/lmr/bx/n/10 15\EU1/lmr/m/n/10 , el programa
  []
 
-[22]
-runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
- "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/tortuga-menu-revisited.py)...executed.
 
- (./guia-eje.out.pyg
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-*************************************************
-* fontspec warning: "addfontfeatures-ignored"
-* 
-* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
-* selected by fontspec.
-*************************************************
-)
-runsystem(rm guia-eje.out.pyg)...executed.
+Overfull \hbox (1.31001pt too wide) in paragraph at lines 65--66
+\EU1/lmr/m/n/10 opciones, presentadas en un menú, dibuje: un cuadrado, un trián
+gulo
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Overfull \hbox (1.07pt too wide) in paragraph at lines 67--68
-[]\EU1/lmr/m/n/10 Diseñe un programa que permita calcular el valor de \EU1/lmr/
-bx/n/10 x \EU1/lmr/m/n/10 de la siguiente
- []
-
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/ec-primer-1.py)...executed.
+t.pyg python/sentenciasControl/tortuga-menu.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -4149,24 +3758,355 @@ t.pyg python/ec-primer-1.py)...executed.
 * \addfontfeature(s) ignored; it cannot be used with a font that wasn't
 * selected by fontspec.
 *************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
 )
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [22]
 Underfull \hbox (badness 10000) in paragraph at lines 81--82
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/ec-primer-2.py)...executed.
+t.pyg python/sentenciasControl/tortuga-menu-revisited.py)...executed.
 
 (./guia-eje.out.pyg
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
 *************************************************
 * fontspec warning: "addfontfeatures-ignored"
 * 
@@ -4247,20 +4187,174 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
-[24]
-Overfull \hbox (7.0pt too wide) in paragraph at lines 95--96
-[]\EU1/lmr/m/n/10 Si observamos la fórmula anterior, observamos que el primer p
-roblema
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [23]
+Overfull \hbox (1.07pt too wide) in paragraph at lines 87--88
+[]\EU1/lmr/m/n/10 Diseñe un programa que permita calcular el valor de \EU1/lmr/
+bx/n/10 x \EU1/lmr/m/n/10 de la siguiente
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [24]
+runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
+ "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
+t.pyg python/sentenciasControl/ec-primer-1.py)...executed.
+
+ (./guia-eje.out.pyg
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+)
+runsystem(rm guia-eje.out.pyg)...executed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/ec-seg-1.py)...executed.
+t.pyg python/sentenciasControl/ec-primer-2.py)...executed.
+
+(./guia-eje.out.pyg
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+*************************************************
+* fontspec warning: "addfontfeatures-ignored"
+* 
+* \addfontfeature(s) ignored; it cannot be used with a font that wasn't
+* selected by fontspec.
+*************************************************
+)
+runsystem(rm guia-eje.out.pyg)...executed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [25]
+Overfull \hbox (7.0pt too wide) in paragraph at lines 115--116
+[]\EU1/lmr/m/n/10 Si observamos la fórmula anterior, observamos que el primer p
+roblema
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
+ "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
+t.pyg python/sentenciasControl/ec-seg-1.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -4351,19 +4445,20 @@ t.pyg python/ec-seg-1.py)...executed.
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
-[25]
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [26]
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/ec-seg-2.py)...executed.
+t.pyg python/sentenciasControl/ec-seg-2.py)...executed.
 
  (./guia-eje.out.pyg
 *************************************************
@@ -4484,24 +4579,24 @@ t.pyg python/ec-seg-2.py)...executed.
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
 
  []
 
 
-Overfull \hbox (22.43002pt too wide) in paragraph at lines 119--120
+Overfull \hbox (22.43002pt too wide) in paragraph at lines 139--140
 []\EU1/lmr/m/n/10 Como los niveles de indentación (sangrado) nos van quedando i
 ncómodos,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/ec-seg-3.py)...executed.
+t.pyg python/sentenciasControl/ec-seg-3.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -4610,18 +4705,19 @@ t.pyg python/ec-seg-3.py)...executed.
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
-[26]
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [27]
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/ec-seg-4.py)...executed.
+t.pyg python/sentenciasControl/ec-seg-4.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -4760,24 +4856,26 @@ t.pyg python/ec-seg-4.py)...executed.
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
-[27]
-Overfull \hbox (17.81337pt too wide) in paragraph at lines 137--138
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [28]
+Overfull \hbox (17.81337pt too wide) in paragraph at lines 157--158
 \EU1/lmr/m/n/10 contrario nos mostrará por pantalla: \EU1/lmr/bx/n/10 La ecuaci
 ón no tiene soluciones
  []
 
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [29]
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
  []
 
 runsystem(pygmentize -l python3 -f latex -F tokenmerge            -P linenos -P
  "verboptions= ,framesep=10pt,firstnumber=\value {pythonnumber}" -o guia-eje.ou
-t.pyg python/ec-seg-5.py)...executed.
+t.pyg python/sentenciasControl/ec-seg-5.py)...executed.
 
 (./guia-eje.out.pyg
 *************************************************
@@ -4946,31 +5044,33 @@ t.pyg python/ec-seg-5.py)...executed.
 runsystem(rm guia-eje.out.pyg)...executed.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
 
  []
 
-[29]
-Overfull \hbox (13.58002pt too wide) in paragraph at lines 173--174
+File: ./images/cc-lic.png Graphic file (type QTm)
+<use  "./images/cc-lic.png" > [30]
+Overfull \hbox (13.58002pt too wide) in paragraph at lines 193--194
 \EU1/lmr/m/n/10 segura. Luego usando la función \EU1/lmr/bx/n/10 complex \EU1/l
 mr/m/n/10 creamos el número complejo. 
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 63.
- [30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 63.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
+File: ./images/cc-lic.png Graphic file (type QTm)
+ <use  "./images/cc-lic.png" > [31]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
  (./guia-eje.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 63.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 63.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 64.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 64.
  ) 
 Here is how much of TeX's memory you used:
- 24004 strings out of 495597
- 432738 string characters out of 6186290
- 499816 words of memory out of 5000000
- 26883 multiletter control sequences out of 15000+600000
+ 24008 strings out of 495597
+ 432801 string characters out of 6186290
+ 499870 words of memory out of 5000000
+ 26884 multiletter control sequences out of 15000+600000
  10496 words of font info for 60 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 53i,14n,45p,10420b,731s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,16n,48p,10420b,731s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on guia-eje.pdf (30 pages).
+Output written on guia-eje.pdf (31 pages).
