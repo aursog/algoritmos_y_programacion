@@ -1,0 +1,197 @@
+A continuación realizaremos ejercicios con las sentencias de control de flujo \textbf{IF}, \textbf{ELSE}, \textbf{ELIF}. Iremos construyendo ejercicios en orden de relevancia y avanzando desde ejercicios simples a más complejos.
+
+\begin{enumerate}[{Ejercicio} 1.]
+    \item Diseñe un programa que reciba la edad de una persona y que muestre por pantalla si es mayor de edad.\label{e.edad}\\
+    
+    \asw Usamos la sentencia \textbf{IF} para evaluar la condición: \( edad > 18 \). Si esta es verdad (\textbf{True}) entonces nos va a mostrar el mensaje, en caso contrario, no va a mostrar nada. El código quedaría como:\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/edad.py}
+    \end{listing}
+
+    Si probamos con \(edad = 21\), el programa debería mostrar: \textbf{Es mayor de edad}.
+
+    \item Rediseñe el programa del ejercicio \ref{e.edad} para incluir un mensaje que indique que la persona no es mayor de edad.\\
+    
+    \asw Para esto reformularemos el programa anterior y usaremos la sentencia \textbf{ELSE}. Esta sentencia se ejecutará solo cuando la condición \( edad > 18 \) sea falsa (\textbf{False}).\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/edad-else.py}
+    \end{listing}
+
+    Si probamos con \(edad = 21\), el programa debería mostrar: \textbf{Es mayor de edad}.
+
+    Si probamos con \(edad = 15\), el programa debería mostrar: \textbf{Es menor de edad}.
+
+    \item Solicitar la edad de dos personas por teclado e indicar que persona es mayor, menor o si tienen la misma edad.\\
+    
+    \asw Para esto usaremos la sentencia \textbf{IF} y la sentencia \textbf{ELSE} para validar quien es mayor. Para esto compararemos \(edad_{p1} > edad_{p2} \), si es verdad entonces la persona 1 es mayor que la persona 2, pero si es falsa se nos abren dos posibilidades:\\
+
+    \begin{enumerate}
+        \item Que ambas personas tengan la misma edad
+        \item Que la persona 2 es mayor que la persona 1
+    \end{enumerate}
+
+    Con esto en mente, tenemos que en la sentencia \textbf{ELSE} considerar ambos escenarios. Así podemos considerar esto como otra sentencia de control de flujo.\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/edad-personas.py}
+    \end{listing}
+
+    Una mejora de código que podemos proponer en el código anterior, es la utilización de la sentencia \textbf{ELIF}, así nuestro código quedaría como:
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/edad-persona-elif.py}
+    \end{listing}
+
+    Ahora podemos probar con los siguientes valores:
+
+    \begin{enumerate}
+        \item Edad1 = 20, edad2 = 15; el resultado debe ser: \textbf{La persona 1 es mayor}
+        \item Edad1 = 15, edad2 = 21; el resultado debe ser: \textbf{La persona 2 es mayor}
+        \item Edad1 = 15, edad2 = 15; el resultado debe ser: \textbf{Las personas tienen la misma edad}
+    \end{enumerate}
+
+    \item Diseñe un programa que determine si un número ingresado por el usuario es par o impar y muestre un mensaje según corresponda. \\
+    
+    \asw Para esto utilizaremos la operación módulo (\%). Esta operación nos entrega el resto de una división. Si esta es exacta el resultado de la operación es 0, si la división no es exacta, nos entregará el resto de la división. Para determinar si el número es par o no, simplemente tenemos que calcular la operación módulo de 2 con el número. Si este es par, el resultado será cero, en caso contrario entregará 1. Así nuestro código quedará como:\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/esPar.py}
+    \end{listing}
+
+    Así, si ingresamos el número \textbf{8}, el programa nos entregará: \textbf{El número 8 es par}; si ahora probamos con el número \textbf{15}, el programa nos entregará: \textbf{El número 15 es impar}.
+
+    \item Diseñe un programa usando el módulo \textbf{turtle}, que en base a 3 opciones, presentadas en un menú, dibuje: un cuadrado, un triángulo o un círculo.\\
+    
+    \asw Si definimos que nuestras opciones son:
+
+    \begin{enumerate}
+        \item cuadrado
+        \item triángulo
+        \item circulo
+    \end{enumerate}
+
+    Tenemos que crear el menú y obtener la opción escogida por el usuario desde el teclado, y en base a esa opción dibujar. En este caso podríamos observar como quedaría el código:\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/tortuga-menu.py}
+    \end{listing}
+
+    Si observamos, capturamos la opción del usuario y según la opción escogida mostramos una figura u otra. Si mejoramos un poco más el código usando \textbf{string} multilinea (ahorrándonos los 4 \textbf{print}) y por otro lado usamos la sentencia \textbf{ELIF} por el sangrado, nos queda un código un poco más limpio:\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/tortuga-menu-revisited.py}
+    \end{listing}
+
+    \item Diseñe un programa que permita calcular el valor de \textbf{x} de la siguiente ecuación. Los valores de \(a\) y \(b\) serán ingresados por teclado.
+    
+    \[ ax + b = 0 \]
+
+    \asw Para resolver esta ecuación, debemos despejar la \(x\). Esto lo hacemos moviendo los términos hacia el otro lado de la ecuación, quedándonos de la siguiente manera:\\
+
+    \[ x = \frac{-b}{a} \]
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/ec-primer-1.py}
+    \end{listing}
+
+    Luego, acá se nos presenta un problema. Si el usuario ingresa un valor de \(a = 0\), esta ecuación nos entrega un error de división por 0. Esto se produce dado a que la ecuación no tiene valores posibles para resolverse.
+
+    Otro escenario que es posible apreciar acá es cuando el usuario ingresa un valor de \(a=0\) y \(b=0\). En ese caso, la ecuación tiene infinitas soluciones. Sin embargo esos dos casos no los estamos graficando correctamente en nuestro código, para eso tenemos que considerar ambas restricciones y colocar los respectivos mensajes, quedando nuestro código de la siguiente manera:\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/ec-primer-2.py}
+    \end{listing}
+
+    \item Diseñe un programa que permita calcular los valores que toma \(x\) en una ecuación de segundo grado, en donde los valores de \(a\), \(b\) y \(c\) son ingresados por el usuario por teclado. Recordar que para obtener los valores de x, se debe resolver la siguiente ecuación:
+    
+    \[ x = \frac{-b \pm \sqrt{b^2 - 4*a*c}}{2*a}\]
+
+    \asw Para este ejercicio lo iremos desarrollando por partes. 
+    
+    Lo primero que debemos validar, son las entradas de los valores de \(a\), \(b\) y \(c\).
+
+    Si observamos la fórmula anterior, observamos que el primer problema que podemos tener es que el usuario ingrese un valor de \(a=0\). Con esto el cálculo de los valores de \(x\) se indefine, dado a que me quedaría una división por 0. Por otro lado, si observamos como planteamos una ecuación de segundo grado:
+
+    \[ ax^2 + bx + c = 0 \]
+
+    Por ende, si \(a=0\), entonces se nos transforma a una ecuación de primer grado, quedando como:
+    
+    \[ bx + c = 0 \]
+    
+    Despejando x, nos queda:
+
+    \[ x = \frac{-c}{b} \]
+    
+    Para este escenario podemos tener una primera versión de código de la siguiente manera:\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/ec-seg-1.py}
+    \end{listing}
+
+    Bien, salvamos el primer problema (pero no el único). ¿Qué pasa ahora si el usuario ingresa \(a=0\) y \(b=0\)?. Nuevamente estamos frente a un potencial error de división por 0. Para esto añadiremos más sentencias de control, tal y como hicimos cuando resolvimos la ecuación de primer grado.\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/ec-seg-2.py}
+    \end{listing}
+    
+    Como los niveles de indentación (sangrado) nos van quedando incómodos, usamos la sentencia \textbf{ELIF} para agrupar mejor, quedando un código como:\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/ec-seg-3.py}
+    \end{listing}
+
+    Ok, hasta este punto podemos calcular los valores de \(x\) reales, pero seguimos teniendo un problema, ¿qué pasa si el discriminante es negativo?.
+
+    Determinamos al discriminante de la ecuación de segundo grado al cálculo que realizamos dentro de la raíz cuadrada:
+
+    \[ \Delta = b^2 - 4 * a * c \]
+
+    El problema es que si este valor es negativo la ecuación no tendrá soluciones reales. Por otro lado, la librería \textbf{math}, y en particular la función \textbf{sqrt} no permite resolver raíces cuadradas negativas, entonces debemos realizar esta validación.\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/ec-seg-4.py}
+    \end{listing}
+
+    Hasta este punto, tenemos nuestra ecuación validada y podemos resolver los valores de \(x\) siempre que estos sean reales, en caso contrario nos mostrará por pantalla: \textbf{La ecuación no tiene soluciones reales}.
+
+    Pero nuevamente dejamos por fuera un escenario más. Que sucede si me interesa saber las soluciones \textit{complejas} de la ecuación, al igual que las soluciones reales, ¿cómo resolvemos eso?.
+
+    Para resolver el problema, hay un truco sumamente simple y útil que podemos usar:
+
+    \[ \sqrt{a * b} = \sqrt{a} * \sqrt{b} \]
+
+    Luego, si tenemos por ejemplo:
+
+    \[ \sqrt{-5} = \sqrt{5} * \sqrt{-1} \]
+
+    Y por definición de números complejos:
+
+    \[ j = \sqrt{-1} \]
+
+    Luego:
+
+    \[ \sqrt{-5} = \sqrt{5} * j \]
+
+    Por ende si el discriminante es negativo (señalizado acá como \(\Delta\)), podemos hacer lo siguiente:
+
+    \[ \sqrt{-\Delta} = \sqrt{\Delta} * j \]
+
+    Quedándonos la ecuación como:
+
+    \[ x = \frac{-b \pm \sqrt{\Delta}j}{2*a} = \frac{-b}{2*a} \pm \frac{\sqrt{\Delta}}{2*a}j \]
+
+    Con esto claro, colocamos la última modificación de código:\\
+
+    \begin{listing}[H]
+        \pythonblock{python/sentenciasControl/ec-seg-5.py}
+    \end{listing}
+
+    Por simple comodidad de código, hemos definido la variable \(det = 2 * a\) para mayor claridad del código.
+
+    En la línea 15, lo que hacemos es invertir el valor del discriminante (agregando el menos delante) y así poder calcular la raíz de forma segura. Luego usando la función \textbf{complex} creamos el número complejo. 
+
+    El primer parámetro de esa función es la parte real del número complejo, y el segundo parámetro es la parte compleja.
+
+\end{enumerate}

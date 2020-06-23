@@ -1,0 +1,164 @@
+\documentclass[]{"article"}
+\usepackage{polyglossia}
+\usepackage{fancyhdr}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{listings}
+\usepackage{amsfonts}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{minted}
+
+\setmainlanguage{spanish}
+\definecolor{mygray}{RGB}{248,249,250}
+
+\newcommand{\pythonblock}{\inputminted[linenos,bgcolor=mygray,framesep=10pt]{python3}}
+\newcommand{\asw}{\textbf{R. }}
+\renewcommand{\theFancyVerbLine}{\sffamily \textcolor[rgb]{0.5,0.5,1.0}{\footnotesize \oldstylenums{\arabic{FancyVerbLine}}}}
+
+\title{Guía de ejercicios resueltos \protect\\ Algoritmos y programación}
+\author{Anggelo Urso G. \\ anggelo.urso@inacapmail.cl}
+\date{\today}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Algoritmos y programación}
+\rhead{\thepage}
+\lfoot{AUG \LaTeX}
+
+\begin{document}
+    \thispagestyle{empty}
+    \maketitle
+
+    \section{Introducción}
+    
+    El siguiente documento tiene por finalidad generar una guía de ejercicios resueltos para facilitar el aprendizaje de los alumnos de la asignatura de algoritmos y programación.
+
+    \section{Ejercicios resueltos}
+
+    A continuación se desarrollarán una serie de ejercicios resueltos de acuerdo a distintas secciones de interes en la materia.
+
+    \subsection{Entrada y salida de datos}
+
+    \begin{enumerate}[{Ejercicio} 1.]
+        \item Muestre por pantalla el siguiente texto: "Hola mundo".\\
+
+        \asw Para desarrollar este ejercicio utilizaremos la función \textbf{print}, luego nuestro código quedaría como:\\
+
+        \pythonblock{python/hola_mundo.py}
+
+        En este caso, observamos que pasamos como argumento el \textbf{string} "Hola mundo" y luego se muestra por pantalla.
+        
+        \item Leer un string desde teclado. \\
+
+        \asw Para desarrollar este ejercicio utilizaremos la función \textbf{input}. Esta función lee desde el teclado los datos. \\
+        
+        \pythonblock{python/input_vacio.py}
+
+        Luego si queremos mejorar un poco la entrada de los datos, agregando un texto antes para indicar al usuario que es lo que pedimos, la función \textbf{input} recibe como argumento un \textbf{string}, el cual se despliega por pantalla y solicita el texto. \\
+
+        \pythonblock{python/input_con_texto.py}
+
+        Finalmente si queremos almacenar el valor recibido por teclado en una variable para posteriormente utilizarlo, usamos:\\
+
+        \pythonblock{python/input_con_variable.py}
+
+        \item Leer un string desde el teclado y luego mostrarlo por pantalla.\\
+        
+        \asw Para este ejercicio usaremos \textbf{print} e \textbf{input}, a través de la segunda capturaremos el \textbf{string} desde teclado y con la primera lo mostraremos por pantalla.\\
+
+        \pythonblock{python/print_input.py}
+
+        \item Leer un numero desde teclado.\label{e.num} \\
+        
+        \asw Primero es necesario entender que la función \textbf{input}, lo que nos retorna al flujo del programa es un string. Para poder devolver un \textbf{int} al flujo, es necesario hacer un \textit{cast} de la variable, es decir. Si queremos un entero, debemos forzar el tipo a la función input.\\
+
+        \pythonblock{python/input_comment.py}
+
+        \textbf{Importante:} si el dato que estamos ingresando por teclado no es un entero (ej. un flotante o un string) esto nos arrojará un error. Esto debido a que estamos forzando el tipo de dato a entero si o si.
+
+        \item Sumar dos números recibidos desde teclado y mostrar el resultado por pantalla.\\
+        
+        \asw Para esto usaremos la función \textbf{input} y asignación de variables. Luego sumaremos el resultado y usaremos la función \textbf{print} para mostrar el resultado por pantalla.\\
+
+        \pythonblock{python/suma_input.py}
+
+        \item Recibir dos números flotante por teclado y mostrar la suma por pantalla sin usar una variable para la suma.\\
+        
+        \asw Tal y como vimos en el ejercicio \ref{e.num} para determinar el tipo de dato de la función \textbf{input} debemos forzarlo. Luego nos piden mostrar por teclado sin usar una variable para la suma, esto lo podemos hacer con la función \textbf{print} pasando directamente la suma de los números.\\
+
+        \pythonblock{python/float_input.py}
+
+        \textbf{Importante:} Acá al igual que el ejercicio \ref{e.num} estamos esperando un tipo de dato flotante. Si pasamos por error un \textbf{string} nos arrojará un error. No así si pasamos un entero, dado a que un entero "cabe" en un flotante. Más especificamente, un número flotante es más general que un entero, y el conjunto de los número enteros está contenido en los flotantes.\footnote{Esto se lee, los números enteros \(\mathbb{Z}\) son un subconjunto de los números racionales (flotantes) \(\mathbb{Q}\)}
+
+        \[\mathbb{Z} \subset \mathbb{Q} \]
+
+        \item Recibir un nombre desde el teclado y luego mostrar un saludo personalizado a ese nombre. \\
+        
+        \asw Guardamos el dato recibido por teclado en una variable y luego mostramos \textit{"Hola "} junto con el nombre recibido por teclado.
+
+        Acá tenemos dos alternativas, la primera es pasar el saludo, y separado por una coma, el nombre ingresado por teclado. La segunda es concatenar (sumar los dos \textbf{strings}) en la función \textbf{print}.\\
+
+        \pythonblock{python/saludo_nombre.py}
+
+        \item Pedir el nombre al usuario por teclado y luego solicitar el apellido (también por teclado), mostrando el nombre en la entrada de datos. Luego saludar a la persona.\label{e.nom-apel}\\
+        
+        \asw Una de las cosas bonitas que tiene la función \textbf{input} es que podemos concatenar \textbf{strings} recibidos anteriormente en otro \textbf{input}. De esta manera podemos hacer un código de las siguiente forma.\\
+
+        \pythonblock{python/saludo_nom-apel.py}
+
+        \item Resolver el ejercicio \ref{e.nom-apel} ahora con texto formateado.\label{e.formato}\\
+        
+        \asw Cuando nos piden texto formateado, anteponemos una \textbf{f} antes de la cadena y luego, a través de paréntesis de llave, vamos escribiendo las variables.\\
+
+        \pythonblock{python/saludo_nombre-formato.py}
+
+        A contar de ahora en adelante, si queremos un texto \textit{con formato} usaremos esta forma para representarlo (importante la \textbf{f} y la forma de escritura).
+
+        \item Diseñe un programa que a partir del valor del lado de un cuadrado (3 metros), muestre el valor de su perímetro (en metros) y el de su area (en metros cuadrados). \\
+        
+        \asw Sabemos que el perímetro de un cuadrado es la suma de sus cuatro lados, o similar:
+
+        \[perimetro = lado * 4\]
+
+        Y que el área es cálcular el cuadrado de su lado:
+
+        \[area = lado^2\]
+
+        Con los datos que nos entregan, el perimetro debe darnos 12 metros y el área 9 metros cuadrados. Luego un programa que calcule el perimetro, con un valor de lado dado, sería algo como esto:\\
+
+        \pythonblock{python/perimetroCuadrado.py}
+
+        \item Diseñe un programa que, a partir del valor de la base y de la altura de un triángulo (3 y 5 metros respectivamente), muestre el valor de su área (en metros cuadrados).\\
+        
+        \asw Recordamos que el cálculo del área de un triangulo viene dado por:
+
+        \[area = \frac{base * altura}{2}\]
+
+        Luego con los datos que nos entregan el área del triángulo debiese tener un valor de 7.5 metros cuadrados. Si hacemos un programa en Python que nos haga dicho cálculo, tenemos:\\
+
+        \pythonblock{python/areaTriangulo.py}
+        
+        \item Calcule el área de una circunferencia, pidiendo el radio de ésta al usuario para que lo ingrese por teclado.\\
+        
+        \asw El cálculo del área de una circunferencia está dado por:
+
+        \[ area = \pi * radio^2 \]
+
+        Python nos ofrece la libreria \textbf{math} para obtener desde ella distintos tipos de funciones o constantes (entre ellas el valor de \textbf{pi}). Para usarla solo basta importarla y usarla directamente.\\
+
+        \begin{listing}[H]
+            \pythonblock{python/areaCirculo.py}
+        \end{listing}
+
+        \item Calcular el volumen de una esfera, solicitando al usuario el ingreso del radio de ésta por teclado.\\
+        
+        \asw Recordando la fórmula
+
+        \[ area = \frac{4}{3} * \pi * radio^3 \]
+
+        Luego usamos \textbf{input} para capturar el valor del radio desde el teclado y llevamos la formula a nuestro programa, e importamos la libreria \textbf{math} para obtener el valor de \textbf{pi}.\\
+
+        \pythonblock{python/areaEsfera.py}
+
+    \end{enumerate}
+\end{document}

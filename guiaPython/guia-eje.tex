@@ -1,0 +1,63 @@
+\documentclass[]{"article"}
+\usepackage{polyglossia}
+\usepackage{fancyhdr}
+\usepackage{enumerate}
+\usepackage{framed}
+\usepackage{listings}
+\usepackage{amsfonts}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{minted}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{gensymb}
+\graphicspath{ {./images/} }
+
+\setmainlanguage{spanish}
+\definecolor{mygray}{RGB}{248,249,250}
+
+\newcommand{\pythonblock}{\inputminted[linenos,bgcolor=mygray,framesep=10pt,firstnumber=\value{pythonnumber}]{python3}}
+\newcommand{\asw}{\textbf{R. }}
+\renewcommand{\theFancyVerbLine}{\sffamily \textcolor[rgb]{0.5,0.5,1.0}{\footnotesize \oldstylenums{\arabic{FancyVerbLine}}}}
+
+\title{Guía de ejercicios resueltos \protect\\ Algoritmos y programación}
+\author{Anggelo Urso G. \\ anggelo.urso@inacapmail.cl}
+\date{\today}
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{Algoritmos y programación}
+\rhead{\thepage}
+\lfoot{AUG /\LaTeX}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\newcounter{pythonnumber}
+\setcounter{pythonnumber}{1}
+
+\begin{document}
+    \thispagestyle{empty}
+    \maketitle
+
+    \section{Introducción}
+    
+    El siguiente documento tiene por finalidad generar una guía de ejercicios resueltos para facilitar el aprendizaje de los alumnos de la asignatura de algoritmos y programación.
+
+    \section{Ejercicios resueltos}
+
+    A continuación se desarrollarán una serie de ejercicios resueltos de acuerdo a distintas secciones de interés en la materia.
+
+    \subsection{Entrada y salida de datos}
+    \input{secciones/entradaSalida}
+
+    \subsection{Ejercicios con tortuga}
+    \input{secciones/tortuga}
+
+    \subsection{Sentecias de control}
+    \input{secciones/sentenciasControl}
+
+\end{document}
