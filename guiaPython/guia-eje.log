@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2020.6.18)  23 JUN 2020 16:27
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2020.6.18)  25 JUN 2020 10:50
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -7,10 +7,6 @@ entering extended mode
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 5 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-
-LaTeX Warning: You have requested document class `"article"',
-               but the document class provides `article'.
-
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
@@ -5066,8 +5062,8 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 64.
  ) 
 Here is how much of TeX's memory you used:
  24008 strings out of 495597
- 432801 string characters out of 6186290
- 499870 words of memory out of 5000000
+ 432795 string characters out of 6186290
+ 499862 words of memory out of 5000000
  26884 multiletter control sequences out of 15000+600000
  10496 words of font info for 60 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191

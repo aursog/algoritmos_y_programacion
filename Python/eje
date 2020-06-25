@@ -1,9 +1,0 @@
-Resolver la ecuación de segundo grado
-ax^2 + bx + c = 0
-
-Con a, b y c entregados por el usuario
-
-x_1 = -b + sqrt(b^2 - 4ac)/2a
-x_2 = -b - sqrt(b^2 - 4ac)/2a
-
-Entregar los valores de X que cumplen con la condición.
