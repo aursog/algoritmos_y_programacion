@@ -1,0 +1,28 @@
+La multiplicación de los 10 primeros numeros (excluyendo el 0, comenzando en 1), pero
+usando el algoritmo desarrollado en las primeras clases de la multiplicación a través
+de sumas sucesivas.
+
+1.- Definir un acumulador con valor 1, que guardará el resultado de las multiplicaciones
+    sucesivas de los numeros.
+2.- Definir un índice con valor 1, que me permitirá ir recorriendo los numeros de 1 a 100.
+3.- Mientras índice sea menor o igual a 100, ir al paso 4, sino ir al paso 7.
+
+4.- Usar la función de multiplicacion con los valores de indice y acumulador
+
+5.- Aumentar el valor del índice en 1.
+6.- Si el valor del índice es igual a 100 o superior, ir al paso 7, sino volver al paso 3.
+7.- Mostrar el resultado que está guardado en el acumulador.
+8.- Terminar.
+
+
+FUNCION DE MULTIPLICACION
+1.- Definir indice con valor 1
+2.- Definir acumulador con valor 0
+3.- Mientras secundario sea menor o igual que el indice primario, ir al paso 4,
+        sino ir al paso 4.
+4.- Asignar en segundo_acumulador, el valor de la suma del indice secundario
+        con el segundo_acumulador.
+5.- Aumentar el valor en 1 del indice secundario.
+6.- Si el indice secundario es igual al valor del indice primario, entonces ir al
+        paso 7; sino volver al paso 3
+7.- Volver al paso 3.

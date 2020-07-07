@@ -1,0 +1,11 @@
+Cálcule el valor de X, dado a y b
+
+ax + b = 0 ---> x = -b / a
+
+1.- Leer a y b que entrega el usuario por teclado
+2.- Validar a, Si a = 0, entonces ir al paso 3, sino ir al paso 4.
+3.- Si b = 0, entonces mostrar "La ecuación tiene infinitas soluciones" y terminar,
+    sino mostrar "La ecuación no tiene solución" y terminar.
+4.- Calcular x = -b / a y guardar el valor en la variable x.
+5.- Mostrar x por pantalla
+6.- Terminar.

@@ -1,0 +1,10 @@
+Sumar los números del 1 al 100.
+
+1.- Definir acumulador con valor 0, para acumular el resultado de la suma.
+2.- Definir indice con valor 1, que va a recorrer los numeros entre 1 y 100.
+3.- Mientras el indice sea menor igual que 100, ejecutar el paso 4.
+4.- Sumar al acumulador el valor actual de indice.
+5.- Aumentar en 1 el valor del indice.
+6.- Si el valor de indice es menor igual que 100, volver al paso 3. Sino ir al paso 7.
+7.- Mostrar el resultado del acumulador por pantalla.
+8.- Terminar
