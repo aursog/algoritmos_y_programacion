@@ -35,6 +35,6 @@ Se almacena en este repositorio también, los fuentes generados en LaTeX y PDF, 
 
 Ejercicios y guía de ejercicios de algoritmos y programación</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aursog" property="cc:attributionName" rel="cc:attributionURL">Anggelo Urso G.</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional</a>.
 
-Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/aursog/algoritmos_y_programacion" rel="dct:source">https://git.io/JfxbQ</a>.
+Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/aursog/algoritmos_y_programacion" rel="dct:source">https://git.io/JfxbQ</a>
 
 Permisos más allá del alcance de esta licencia pueden estar disponibles en <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/aursog/" rel="cc:morePermissions">https://github.com/aursog/</a>.
